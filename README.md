@@ -22,7 +22,7 @@ pod 'learnpods'
 
 ## Author
 
-梅华锋, pelsor.whut@gmail.com
+pelsor, pelsor.whut@gmail.com
 
 ## License
 
